@@ -5,7 +5,7 @@ Estos datos son necesarios para que Git sepa quién está haciendo los cambios.
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu@email.com"
 ```
-   > 📝 Nota: Solo se necesita hacer esto una vez en tu computadora.
+    📝 Nota: Solo se necesita hacer esto una vez en tu computadora.
     
 # ✏️ 2. Hacer cambios y preparar archivos
 
@@ -13,7 +13,7 @@ Después de modificar archivos (por ejemplo: index.html, style.css, etc.), hay q
 ```bash
 git add .
 ```
-    > Este comando prepara todos los archivos modificados para guardarlos con un commit. 
+    Este comando prepara todos los archivos modificados para guardarlos con un commit. 
     
 # 💬 3. Hacer un commit con mensaje
 ```bash
