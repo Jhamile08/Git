@@ -27,3 +27,4 @@ git commit -m "Descripción corta del cambio"
 git push
 ```
     Esto sube los commits al repositorio en GitHub. Si es la primera vez, puede pedir usuario y contraseña o token.    
+## Recuerda si tienes un error extraño, leelo con cuidado para buscar la solución!
