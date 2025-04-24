@@ -3,6 +3,8 @@
 Estos datos son necesarios para que Git sepa quién está haciendo los cambios.
 ```bash
 git config --global user.name "Tu Nombre"
+```
+```bash
 git config --global user.email "tu@email.com"
 ```
     📝 Nota: Solo se necesita hacer esto una vez en tu computadora.
