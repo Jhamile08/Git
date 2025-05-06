@@ -28,8 +28,15 @@ git commit -m "Descripción corta del cambio"
 ```bash
 git push
 ```
-
-# Para bajar de remoto a local ( nube a computadora )
+# Para ver el stash
+```bash
+git status
+```
+# Para traer cambios de remoto a local
+```bash
+git pull
+```
+# Para copiar carpeta remota a local ( nube a computadora )
 
 ```bash
 git clone link-repo-git
